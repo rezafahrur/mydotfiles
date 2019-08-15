@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=./home/reza/Bin/navicat121_premium_en_x64/start_navicat
+Name=Navicat
+Comment=Navicat
+Icon=/home/reza/Bin/navicat121_premium_en_x64/navicat.png
